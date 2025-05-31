@@ -1,0 +1,11 @@
+From: client@test.com
+Subject: Invoice #7890
+
+Hello Team,
+
+Please process this invoice as soon as possible. Let me know if you need any further details.
+
+Regards,  
+Client
+
+

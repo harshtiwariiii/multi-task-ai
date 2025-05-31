@@ -1,0 +1,21 @@
+{
+  "invoice_number": "INV-7890",
+  "date": "2025-05-28",
+  "due_date": "2025-06-15",
+  "amount": 1450.75,
+  "currency": "USD",
+  "client_name": "Acme Corp",
+  "client_email": "billing@acme.com",
+  "items": [
+    {
+      "description": "Software development services",
+      "quantity": 10,
+      "unit_price": 120
+    },
+    {
+      "description": "Support & Maintenance",
+      "quantity": 2,
+      "unit_price": 55.75
+    }
+  ]
+}
